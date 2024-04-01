@@ -1,0 +1,191 @@
+.tra{
+    background-color: white;
+    width: 1350px;
+    height: 600px;
+   
+     
+     display: grid;
+
+}
+.headtra{
+    position: absolute;
+     left:910px;
+     bottom: 470px;
+     font-size: 50px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: rgb(3, 163, 255);
+}
+.aero{
+    position: absolute;
+    top:10px;
+    left:700px;
+    width: 200px;
+    height: 200px;
+}
+
+.aerop{
+    position: absolute;
+    top:10px;
+    left:1190px;
+    width: 200px;
+    height: 200px;
+}
+
+
+.traquote{
+    position: absolute;
+     left:70px;
+     bottom: 470px;
+     font-size: 60px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial;
+     color: white;
+   
+}
+
+.trasmallquote{
+    position: absolute;
+     left:90px;
+     bottom: 470px;
+     font-size: 20px;
+     font-family:cursive;
+     color: white;
+   
+}
+
+
+.traname{
+    
+    position: absolute;
+     left:900px;
+     bottom: 410px;
+     width: 300px;
+     height: 40px;
+    
+}
+.trapassword{
+    position: absolute;
+     left:900px;
+     bottom: 350px;
+     width: 300px;
+     height: 40px;
+   
+}
+.fortra{
+    position: absolute;
+     left:900px;
+     bottom: 290px;
+     width: 300px;
+     height: 30px;
+     font-size: 15px;
+}
+.trabtn{
+    position: absolute;
+     left:1000px;
+     bottom: 270px;
+     width: 100px;
+     height: 30px;
+    background-color: rgb(0, 102, 255);
+    color: white;
+}
+
+.or{
+    position: absolute;
+     left:1020px;
+     bottom: 240px;
+     width: 50px;
+     height: 10px;
+
+}
+
+
+.labelreg{
+    position: absolute;
+     left:900px;
+     bottom: 120px;
+     width: 200px;
+     height: 30px;
+   
+}
+.linksign{
+    position: absolute;
+     left:1070px;
+     bottom: 131px;
+  
+}
+.ggbtn{
+    position: absolute;
+     left:920px;
+     bottom: 161px;
+     width: 50px;
+     height: 50px;
+    
+  
+}
+.goobtn{
+    position: absolute;
+     left:900px;
+     bottom: 161px;
+     width: 100px;
+     height: 50px;
+
+  
+}
+
+
+
+.fbtn{
+    position: absolute;
+     left:1026px;
+     bottom: 165px;
+     width: 70px;
+     height: 40px;
+
+  
+}
+.fabtn{
+    position: absolute;
+     left:1010px;
+     bottom: 163px;
+     width: 100px;
+     height: 50px;
+     
+  
+}
+
+.apimg{
+    position: absolute;
+     left:1133px;
+     bottom: 164px;
+     width: 70px;
+     height: 40px;
+
+  
+}
+.applebtn{
+    position: absolute;
+     left:1120px;
+     bottom: 163px;
+     width: 100px;
+     height: 50px;
+     
+  
+}
+
+.taj{
+    position: absolute;
+     left:700px;
+     bottom: -25px;
+     width: 174px;
+     height: 174px;
+     
+  
+}
+
+.build{
+    position: absolute;
+     left:1180px;
+     bottom: 10px;
+     width: 150px;
+     height: 150px;
+
+}
